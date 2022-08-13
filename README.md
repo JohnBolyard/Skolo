@@ -1,2 +1,2 @@
-# SkoloContent
-SkoloContent
+# Skolo
+Skolo
